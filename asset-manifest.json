@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supreetgupta93/textutils/static/css/main.f855e6bc.css",
+    "main.js": "/supreetgupta93/textutils/static/js/main.6d69fab7.js",
+    "static/js/453.ed3810f9.chunk.js": "/supreetgupta93/textutils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/supreetgupta93/textutils/index.html",
+    "main.f855e6bc.css.map": "/supreetgupta93/textutils/static/css/main.f855e6bc.css.map",
+    "main.6d69fab7.js.map": "/supreetgupta93/textutils/static/js/main.6d69fab7.js.map",
+    "453.ed3810f9.chunk.js.map": "/supreetgupta93/textutils/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6d69fab7.js"
+  ]
+}
